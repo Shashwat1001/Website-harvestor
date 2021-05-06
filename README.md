@@ -1,0 +1,2 @@
+# Website-harvestor
+If you've heard the name but are wondering what it means, OSINT stands for open source intelligence, which refers to any information that can legally be gathered from free, public sources about an individual or organization. In practice, that tends to mean information found on the internet, but technically any public information falls into the category of OSINT whether it's books or reports in a public library, articles in a newspaper or statements in a press release.
